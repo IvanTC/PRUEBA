@@ -23,7 +23,7 @@ public class HOLA_GIT {
         JOptionPane.showMessageDialog(null, "HOLA "+nombre+" BIENVENIDO A LA PROGRAMACION EN GIT");
         JOptionPane.showMessageDialog(null, "ESTE ES UN SEGUNDO CAMBIO QUE SE HIZO DESDE NETBEANS");
         System.out.println("aki cambie");
-
+        System.out.println("aki cambie desde git hub");
     }
 }
 
